@@ -1,0 +1,1 @@
+First thing I would do it check the WHERE clauses for fields unindexed, if not determine if we can index them or refactor the WHERE clause to use an indexed field.
